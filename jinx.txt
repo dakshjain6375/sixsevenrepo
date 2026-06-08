@@ -50,4 +50,5 @@ Git managed the kernel 2.6.12 release.[18] Torvalds turned over maintenance on
 July 2005 to Junio Hamano, a major contributor to the project.[19] Hamano was
 responsible for the 1.0 release on 21 December 2005, and remains the project's
 maintainer.[20]
+:%s/Torvalds/daksh/g
 
